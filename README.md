@@ -28,7 +28,8 @@ Automation framework is implemented using Specflow + MSTest framework (C#) and S
 - Restart Visual Studio App once extension is installed
 - Open solution 'RegressionTestSuite.sln' from under 'RegressionAutomationTestSuite' folder in Visual Studio App
 - Rebuild solution
-- Open Test->TestExplorer - SpecFlow tests are listed
+- Open Test->TestExplorer 
+- SpecFlow tests are listed
 - Run the tests
 
 Time taken: 8 hours approx
