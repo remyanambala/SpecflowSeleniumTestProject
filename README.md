@@ -10,7 +10,7 @@ Manual test case document: Test Case_Suite.xlsx
 Automation Test Suite can be found under folder 'RegressionAutomationTestSuite'.
 Automation framework is implemented using Specflow + MSTest framework (C#) and Selenium Webdriver.
 
-## **Project Structure**
+### **Project Structure**
 
 #### Configuration
    app.config: Browser and URLs are specified under this file
@@ -22,7 +22,7 @@ Automation framework is implemented using Specflow + MSTest framework (C#) and S
 - PageObjects: Page Object Model (POM) pattern is used for framework implementation. It contains a POM class for each test web page
 - Resources: Contains class files to read the app config file and to instantiate/ quit webdriver. It has a TestObjects static class which hold the webdriver and page objects so that it can be shared between the step definitions.
 
-#### **Steps to run the automation test suite**
+### **Steps to run the automation test suite**
 - Download the code repository and unzip it
 - Open Visual Studio App and add extension - 'SpecFlow for Visual Studio 2019'
 - Restart Visual Studio App once extension is installed
