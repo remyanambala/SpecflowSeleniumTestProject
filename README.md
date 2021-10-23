@@ -32,6 +32,6 @@ Automation framework is implemented using Specflow + MSTest framework (C#) and S
 - SpecFlow tests are listed
 - Run the tests
 
-Time taken: 8 hours approx
+
 
 
